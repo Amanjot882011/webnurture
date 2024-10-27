@@ -1,0 +1,22 @@
+{
+  "name": "webnurture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanjotsingh",
+  "license": "ISC",
+  "description": "learn html css bootstrap and tail wind on my website we serve it for free ",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "vite": "^5.4.10"
+  },
+  "keywords": [
+    "webnurture"
+  ]
+}
